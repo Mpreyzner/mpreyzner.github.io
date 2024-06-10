@@ -4,6 +4,15 @@ You can use the [editor on GitHub](https://github.com/Mpreyzner/mpreyzner.github
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+## PHOTOs
+![A beautiful forest](photo.jpg)
+first
+![fooo faaa](docs/assets/photo.jpg)
+second
+![de:hub.de-Projekt](photo.jpg)
+third
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
