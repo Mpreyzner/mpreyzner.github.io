@@ -5,11 +5,11 @@ You can use the [editor on GitHub](https://github.com/Mpreyzner/mpreyzner.github
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## PHOTOs
-![A beautiful forest](photo.jpg)
+![A beautiful forest](meme.jpg)
 first
-![fooo faaa](docs/assets/photo.jpg)
+![fooo faaa](docs/assets/meme.jpg)
 second
-![de:hub.de-Projekt](photo.jpg)
+![fooo faaa](/docs/assets/meme.jpg)
 third
 
 
